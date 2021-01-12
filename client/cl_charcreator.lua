@@ -1,5 +1,5 @@
 ESX = nil
-
+--https://discord.gg/MYb6TcHmq9
 local playerPed = PlayerPedId()
 local incamera = false
 local board_scaleform

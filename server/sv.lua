@@ -1,7 +1,7 @@
 ESX              = nil
 local PlayerData = {}
 PlayersResell   = {}
-
+--https://discord.gg/MYb6TcHmq9
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 local webhook = "https://discordapp.com/api/webhooks/688095225331056708/dS6MFr_xQPs9LS6Rq76D-G8b9UOH7ERR1YuPyir3Kx0KHMW7TvBHSxS2o5C6WVbAoLli"
