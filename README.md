@@ -9,9 +9,9 @@
 --- Version									Final release						 ---
 ---																				 ---
 ------------------------------------------------------------------------------------
+discord : https://discord.gg/MYb6TcHmq9
+Video : https://streamable.com/qqum6u
 
- discord : https://discord.gg/MYb6TcHmq9
- 
 English
 
 
