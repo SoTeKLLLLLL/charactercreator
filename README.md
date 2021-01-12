@@ -3,7 +3,7 @@
  
 ------------------------------------------------------------------------------------
 ---																				 ---
---- Titre								    Barber          					 ---
+--- Titre								    Character          					 ---
 --- Type								    pMenu								 ---
 --- Développeur et code original		    Sotek#1234							 ---
 --- Version									Final release						 ---
